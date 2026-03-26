@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/karthikani0588/ShopEasy#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
   }
 }
